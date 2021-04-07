@@ -16,7 +16,7 @@
 # | PURPOSE   : This bash script file used to copy RMAN backup files that  |
 # |             is gerenated by oracle RECOVERY MANAGER and EXPDP files    |
 # |             or EXP backup files from local to another linux server     |
-# |             (all from ysyk oracle servers) via scp which is a remote   |
+# |             (all from oracle servers) via scp which is a remote        |
 # |             file copy program, and the premise is to configure SSH     |
 # |             mutual trust function between local and remote server,     |
 # |             because if it the two hosts configured SSH mutual trust    |
